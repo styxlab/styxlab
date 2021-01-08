@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently building a new blogging platform
+- 👯 I’m looking for a partner with excellent React skills
+- 🌱 I’m currently learning [Slate](https://github.com/ianstormtaylor/slate)
+
 <!--
 **styxlab/styxlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
