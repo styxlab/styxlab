@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently building a new blogging platform
-- 👯 I’m looking for a partner with React and TypeScript skills
+- 👯 I’m looking for a partner with good React and TypeScript knowledge
 - 🌱 I’m currently learning [Slate](https://github.com/ianstormtaylor/slate)
 
 <!--
