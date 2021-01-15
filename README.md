@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently building a new blogging platform
+- 🔭 I’m currently building a new [blogging platform](https://www.jamify.org/2021/01/09/building-a-new-blogging-platform/)
 - 👯 I’m looking for a partner with good React and TypeScript knowledge
 - 🌱 I’m currently learning [Slate](https://github.com/ianstormtaylor/slate)
 
