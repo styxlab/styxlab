@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently building a new [blogging platform](https://www.jamify.org/2021/01/09/building-a-new-blogging-platform/)
-- 👯 I’m looking for a partner with good React and TypeScript knowledge
-- 🌱 I’m currently learning [Prisma](https://www.prisma.io/) and [ProseMirror](https://github.com/prosemirror)
+- 🔭 I’m building a new [blogging platform](https://www.jamify.org/2021/01/09/building-a-new-blogging-platform/). [Get notified](https://landing.blogody.com/)!
+- 👯 I’m looking for a partner with good React and TypeScript knowledge.
+- 🌱 I’m currently learning [Prisma](https://www.prisma.io/) and [ProseMirror](https://github.com/prosemirror).
 
 <!--
 **styxlab/styxlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
