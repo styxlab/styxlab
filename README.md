@@ -3,7 +3,7 @@
 > [Want to get early access to Blogdy? Sign-up to be among the first to get notified!](https://landing.blogody.com/)
 
 - 🔭 I’m building Blogody - a new [blogging platform](https://www.jamify.org/2021/01/09/building-a-new-blogging-platform/).
-- 👯 I’m looking for a partner with marketing and (tailwindcss) design skills.
+- 👯 I’m looking for a collaborator with marketing and (tailwindcss) design skills.
 - 🌱 I’m currently learning [Prisma](https://www.prisma.io/) and [ProseMirror](https://github.com/prosemirror).
 
 <!--
