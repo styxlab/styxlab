@@ -4,7 +4,7 @@
 
 - 🔭 I’m building Blogody - a new [blogging platform](https://www.jamify.org/2021/01/09/building-a-new-blogging-platform/).
 - 👯 I’m looking for a collaborator with marketing and (tailwindcss) design skills.
-- 🌱 I’m currently learning [Prisma](https://www.prisma.io/) and [ProseMirror](https://github.com/prosemirror).
+- 🌱 I’m currently learning [Prisma](https://www.prisma.io/), [Nexus](https://nexusjs.org/) and [ProseMirror](https://github.com/prosemirror).
 
 <!--
 **styxlab/styxlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
