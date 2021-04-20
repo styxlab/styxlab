@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-> [Want to get early access to Blogdy? Sign-up to be among the first to get notified!](https://landing.blogody.com/)
+> [Want to get early access to Blogdy? Sign-up to be among the first to get notified!](https://www.blogody.com/landing)
 
-- 🔭 I’m building [Blogody](https://news.blogody.com/) - a new [blogging platform](https://www.jamify.org/2021/01/09/building-a-new-blogging-platform/).
+- 🔭 I’m building [Blogody](https://www.blogody.com/news) - a new [blogging platform](https://www.jamify.org/2021/01/09/building-a-new-blogging-platform/).
 - 👯 I’m looking for a collaborator with marketing and (tailwindcss) design skills.
 - 🌱 I’m currently learning [Prisma](https://www.prisma.io/), [Nexus](https://nexusjs.org/) and [ProseMirror](https://github.com/prosemirror).
 
