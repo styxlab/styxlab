@@ -1,10 +1,10 @@
-### Hi there 👋
+### Big news: Blogody is live 🚀
 
-> [Want to get early access to Blogdy? Sign-up to be among the first to get notified!](https://www.blogody.com/landing)
+[![Blogody](https://ph-files.imgix.net/f834ce37-0e1f-41b7-89ab-9e0c2b47ee59.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&fit=max&dpr=1)](https://www.blogody.com)
 
 - 🔭 I’m building [Blogody](https://www.blogody.com/news) - a new [blogging platform](https://www.jamify.org/2021/01/09/building-a-new-blogging-platform/).
 - 👯 I’m looking for a collaborator with marketing and (tailwindcss) design skills.
-- 🌱 I’m currently learning [Prisma](https://www.prisma.io/), [ProseMirror](https://github.com/prosemirror) and [Caddy](https://caddyserver.com/)
+- 🌱 I’m currently learning _Growth Hacking_
 
 <!--
 **styxlab/styxlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
