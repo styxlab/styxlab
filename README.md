@@ -4,7 +4,7 @@
 
 - 🔭 I’m building [Blogody](https://www.blogody.com/news) - a minimalist [blogging platform](https://www.jamify.org/2021/01/09/building-a-new-blogging-platform/) for growing your own audience.
 - 👯 I’m looking for a collaborator with marketing and (tailwindcss) design skills.
-- 🌱 I’m currently learning _Growth Hacking_
+- 🌱 I’m currently learning _Growth Hacking_.
 
 <!--
 **styxlab/styxlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
