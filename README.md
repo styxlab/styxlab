@@ -2,7 +2,7 @@
 
 [![Blogody](https://cms.jamify.org/content/images/2021/11/Screenshot-from-2021-11-25-00-32-25.png)](https://www.blogody.com)
 
-- 🔭 I’m building [Blogody](https://www.blogody.com/news) - a new [blogging platform](https://www.jamify.org/2021/01/09/building-a-new-blogging-platform/).
+- 🔭 I’m building [Blogody](https://www.blogody.com/news) - a minimalist [blogging platform](https://www.jamify.org/2021/01/09/building-a-new-blogging-platform/) for growing your own audience.
 - 👯 I’m looking for a collaborator with marketing and (tailwindcss) design skills.
 - 🌱 I’m currently learning _Growth Hacking_
 
