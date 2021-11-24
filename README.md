@@ -1,4 +1,4 @@
-### Big news: Blogody is live 🚀
+### Blogody is live 🚀
 
 [![Blogody](https://cms.jamify.org/content/images/2021/11/Screenshot-from-2021-11-25-00-32-25.png)](https://www.blogody.com)
 
