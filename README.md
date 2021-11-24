@@ -1,6 +1,6 @@
 ### Big news: Blogody is live 🚀
 
-[![Blogody](https://ph-files.imgix.net/f834ce37-0e1f-41b7-89ab-9e0c2b47ee59.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&fit=max&dpr=1)](https://www.blogody.com)
+[![Blogody](https://cms.jamify.org/content/images/2021/11/Screenshot-from-2021-11-25-00-32-25.png)](https://www.blogody.com)
 
 - 🔭 I’m building [Blogody](https://www.blogody.com/news) - a new [blogging platform](https://www.jamify.org/2021/01/09/building-a-new-blogging-platform/).
 - 👯 I’m looking for a collaborator with marketing and (tailwindcss) design skills.
