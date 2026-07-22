@@ -35,7 +35,7 @@ Our view: that is a **strategic risk**. We prefer a forge whose **roadmap and go
 
 We run **[Forgejo](https://forgejo.org/)** — a lightweight, self-hosted Git forge (issues, pull requests, wiki, webhooks, CI integrations).
 
-Forgejo fits when **governance** matters: community-oriented, non-profit governance ([Codeberg e.V.](https://codeberg.org/Codeberg/Association)), after the Gitea project’s direction moved toward a for-profit structure.
+Forgejo fits when **governance** matters: community-oriented, non-profit governance ([Codeberg e.V.](https://codeberg.org/Codeberg-e.V.)), after the Gitea project’s direction moved toward a for-profit structure.
 
 **One line:** Forgejo for **sovereignty, privacy, speed, and independence** from U.S. corporate control.
 
